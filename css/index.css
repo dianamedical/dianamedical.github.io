@@ -20,3 +20,14 @@ body {
     color: #0abab5;
 	
 }
+.foo	{
+    height: 400px;
+    background: url('../images/main_r.jpg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.motto
+{
+	color: #888;
+}
+}
