@@ -4,3 +4,19 @@ body {
 .starter-template {
   padding: 40px 15px;
 }
+.navbar-nav {
+    float: right;
+}
+
+.navbar-inverse {
+    background-color: #fff;
+    border-color: #eee;
+}
+.starter-template {
+    padding: 0px 15px;
+}
+
+.navbar-inverse .navbar-nav>li>a:hover, .navbar-inverse .navbar-nav>li>a:focus {
+    color: #0abab5;
+	
+}
