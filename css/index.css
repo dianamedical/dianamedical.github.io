@@ -1,5 +1,6 @@
 body {
   padding-top: 50px;
+  overflow-y: scroll;
 }
 .navbar-nav {
     float: right;
@@ -29,5 +30,7 @@ body {
 .motto
 {
 	color: #888;
+	padding-right: 50px;
 }
 }
+
