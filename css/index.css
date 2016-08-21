@@ -1,9 +1,6 @@
 body {
   padding-top: 50px;
 }
-.starter-template {
-  padding: 40px 15px;
-}
 .navbar-nav {
     float: right;
 }
@@ -24,7 +21,7 @@ body {
 	
 }
 .foo	{
-    height: 500px;
+    height: 400px;
     background: url('../images/main_r.jpg');
     background-size: 100% 100%;
     background-repeat: no-repeat;
@@ -33,13 +30,4 @@ body {
 {
 	color: #888;
 }
-}
-.panel-footer {
-    text-align: center;
-}
-
-.vcenter {
-    display: inline-block;
-    vertical-align: middle;
-    float: none;
 }
